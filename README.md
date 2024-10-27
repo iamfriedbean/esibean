@@ -1,5 +1,5 @@
 # esibean
-Basic External Service Interaction for OAST Testing
+Basic External Service Interaction (ESI) test for O.A.S.T.
 
 ## Basic Usage
 
